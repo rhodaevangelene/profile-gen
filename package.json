@@ -1,0 +1,25 @@
+{
+  "name": "profile-gen",
+  "version": "1.0.0",
+  "description": "A node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhodaevangelene/profile-gen.git"
+  },
+  "author": "Rhoda Evangelene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhodaevangelene/profile-gen/issues"
+  },
+  "homepage": "https://github.com/rhodaevangelene/profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
