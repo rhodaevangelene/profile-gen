@@ -18,6 +18,10 @@ Clone the repository from GitHub and download Node. This application also requir
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
 View walk through video here - [Video](https://youtu.be/_ZU7iLE-h_g)<br>
+### Demo 
+![Profile-Generator-Demo](./assets/image/walkthrough.gif)
+
+### Sample Generated HTML File Screenshot
 <img src="./assets/image/samplepage.png">
 
 ## License 
