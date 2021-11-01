@@ -17,7 +17,7 @@ Clone the repository from GitHub and download Node. This application also requir
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Video](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)<br>
+View walk through video here - [Video](G)<br>
 <img src="./assets/image/samplepage.png">
 
 ## License 
@@ -30,4 +30,4 @@ Contributors should read the installation section.
 Run `npm test` to run Jest for tests on constructors. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/rhodaevangelene.
+If you have any questions about this projects, please contact me directly at https://github.com/rhodaevangelene. You can view more of my projects at https://github.com/rhodaevangelene.
